@@ -10,6 +10,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3886-sum-of-sortable-integers](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3886-sum-of-sortable-integers](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,4 +78,9 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3886-sum-of-sortable-integers](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3886-sum-of-sortable-integers) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
