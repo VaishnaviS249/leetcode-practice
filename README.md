@@ -17,6 +17,7 @@
 | [0013-roman-to-integer](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0022-generate-parentheses) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
