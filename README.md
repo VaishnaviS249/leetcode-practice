@@ -10,6 +10,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
@@ -17,6 +18,7 @@
 | [0013-roman-to-integer](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0022-generate-parentheses) |
+| [2409-count-days-spent-together](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
