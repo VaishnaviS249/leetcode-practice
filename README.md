@@ -42,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0164-maximum-gap) |
 | [1254-number-of-closed-islands](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -87,6 +88,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0164-maximum-gap) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3886-sum-of-sortable-integers](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
@@ -113,4 +115,16 @@
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
