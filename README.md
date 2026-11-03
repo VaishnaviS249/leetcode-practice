@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
@@ -43,6 +44,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0164-maximum-gap](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0164-maximum-gap) |
 | [1254-number-of-closed-islands](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -54,6 +56,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
 |  |
