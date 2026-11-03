@@ -46,6 +46,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0164-maximum-gap](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0164-maximum-gap) |
+| [0283-move-zeroes](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0283-move-zeroes) |
 | [1254-number-of-closed-islands](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
