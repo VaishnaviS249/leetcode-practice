@@ -48,6 +48,7 @@
 | [0164-maximum-gap](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0283-move-zeroes) |
 | [1254-number-of-closed-islands](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -72,6 +73,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Memoization
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0164-maximum-gap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3886-sum-of-sortable-integers](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
@@ -148,4 +151,5 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0283-move-zeroes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
