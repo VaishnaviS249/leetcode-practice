@@ -159,4 +159,8 @@
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2747-count-zero-request-servers) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
