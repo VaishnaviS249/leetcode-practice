@@ -51,6 +51,7 @@
 | [1254-number-of-closed-islands](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2747-count-zero-request-servers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -145,6 +146,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
@@ -163,4 +165,12 @@
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Simulation
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
