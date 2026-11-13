@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0013-roman-to-integer) |
+| [0771-jewels-and-stones](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0771-jewels-and-stones) |
 | [2747-count-zero-request-servers](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2747-count-zero-request-servers) |
 ## Math
 |  |
@@ -20,6 +21,7 @@
 | [0020-valid-parentheses](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0709-to-lower-case](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0771-jewels-and-stones) |
 | [2409-count-days-spent-together](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
