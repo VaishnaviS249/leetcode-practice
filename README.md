@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3886-sum-of-sortable-integers) |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Database
 |  |
 | ------- |
@@ -176,4 +179,20 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
