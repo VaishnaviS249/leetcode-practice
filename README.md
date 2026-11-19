@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0771-jewels-and-stones) |
 | [2747-count-zero-request-servers](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2747-count-zero-request-servers) |
@@ -49,6 +50,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0164-maximum-gap](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0283-move-zeroes) |
