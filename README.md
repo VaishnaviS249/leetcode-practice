@@ -23,6 +23,7 @@
 | [0022-generate-parentheses](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0709-to-lower-case](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0771-jewels-and-stones) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
