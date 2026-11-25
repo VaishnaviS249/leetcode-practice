@@ -55,6 +55,7 @@
 | [0053-maximum-subarray](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0164-maximum-gap](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [1254-number-of-closed-islands](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -84,6 +85,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VaishnaviS249/leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -134,6 +136,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bucket Sort
 |  |
@@ -147,6 +150,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 ## Graph Theory
 |  |
 | ------- |
@@ -164,6 +168,7 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VaishnaviS249/leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sliding Window
 |  |
@@ -198,4 +203,8 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/VaishnaviS249/leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/VaishnaviS249/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
